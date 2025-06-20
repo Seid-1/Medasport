@@ -21,7 +21,7 @@ MedaSport is a football-focused news and highlights website built with Node.js, 
 - MySQL (with async/await)
 - Bootstrap 5 (responsive layout)
 - Animate.css (for subtle effects)
-- 
+  
 ---
 
 🤖 Admin Access
